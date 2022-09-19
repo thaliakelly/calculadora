@@ -1,0 +1,45 @@
+button{
+    width: 3em;
+    height: 3em;
+    margin: 0.3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 2em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: black;
+    width: 400px;
+    margin-left: 20%;
+    margin-top: 40px;
+    border-radius: 9px;
+    padding: 1em;
+   
+}
+
+.orage{
+    background-color: #ff9500;
+    color: white;
+}
+
+.gray{
+    background-color: #6e6e6e;
+    color: white;
+}
+.gray-hidden{
+    background-color: black;
+}
+
+
+.res{
+    color: white;
+    display: flex;
+    justify-content: right;
+    margin-top:90px ;
+    font-size: 4em;
+    margin-right: 0.6em;
+}
